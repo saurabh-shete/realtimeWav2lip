@@ -1,0 +1,11 @@
+flask
+numpy
+scipy
+moviepy
+torch
+librosa
+batch-face
+ffmpeg-python
+mediapipe
+git+https://github.com/elliottzheng/batch-face.git@master
+https://raw.githubusercontent.com/AwaleSajil/ghc/master/ghc-1.0-py3-none-any.whl
